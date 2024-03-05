@@ -1,0 +1,1 @@
+source ~/envs/dschat/bin/activate
